@@ -1,5 +1,7 @@
 # Oracle Database 12c (Centos)
 
+**DEPRECATED: Use the ansible version instead https://github.com/albmtez/ansible-oracle-12c**
+
 https://www.howtoforge.com/tutorial/how-to-install-oracle-database-12c-on-centos-7/
 
 Vamos a hacer la instalación usando Vagrant y el box **albmtez/centos7-x64-m**.
